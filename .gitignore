@@ -1,0 +1,13 @@
+# 로컬 샘플·보조 도구 (커밋 제외)
+etc/
+
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+*.pyo
+.Python
+
+# OS
+.DS_Store
+Thumbs.db
